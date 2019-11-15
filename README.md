@@ -1,6 +1,6 @@
-This project is based on the guided project of the course "Python for Data Science: Fundamentals" on dataquest.io.
+Hi, this is my first python project, so I did it mainly to practice and master the fundamentals of python.  Here the dataset used is the Google Play Store data from a few years ago.  
 
-This is my first python project, so I'm doing it mainly to practice and master the fundamentals of python.  Here the dataset used is the Google Play Store data from a few years ago.  
+This project is based on the guided project of the course "Python for Data Science: Fundamentals" on dataquest.io.
 
 The aim of the projects are: 
 * To open, read and handle datasets
