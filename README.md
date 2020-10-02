@@ -4,8 +4,8 @@ This project is based on the guided project of the course "Python for Data Scien
 
 The aim of the projects are:
 
-To open, read and handle datasets
-To clean the data set
-To understand the structure of datasets
-To become familiar with the basic tools of python such as the various data types, loops, methods and functions
-To create useful (but basic) statistics based on the data provided
+1. To open, read and handle datasets
+2. To clean the data set
+3. To understand the structure of datasets
+4. To become familiar with the basic tools of python such as the various data types, loops, methods and functions
+5. To create useful (but basic) statistics based on the data provided
